@@ -17,13 +17,20 @@ danya/
 └── store/      databases, backend systems, architecture
 ```
 
-<div align="center">
-
-I enjoy turning ideas into functional, well-designed software,<br/>
-exploring new technologies, and building projects that solve real-world problems.<br/><br/>
-<sub>Currently building and sharing projects to strengthen my engineering skills and create meaningful software.</sub>
-
-</div>
+<table align="center">
+  <tr>
+    <td width="150" align="center"><img src="https://img.shields.io/badge/APPROACH-ff6f59?style=for-the-badge&labelColor=0e0f13" alt="Approach" /></td>
+    <td>Turning ideas into functional, well-designed software, exploring new technologies, and building projects that solve real-world problems.</td>
+  </tr>
+  <tr>
+    <td width="150" align="center"><img src="https://img.shields.io/badge/NOW-8fbf9f?style=for-the-badge&labelColor=0e0f13" alt="Now" /></td>
+    <td>Building and sharing projects to strengthen my engineering skills and create meaningful software.</td>
+  </tr>
+  <tr>
+    <td width="150" align="center"><img src="https://img.shields.io/badge/MOTTO-f2a65a?style=for-the-badge&labelColor=0e0f13" alt="Motto" /></td>
+    <td><b><i>Build. Learn. Ship. Repeat.</i></b></td>
+  </tr>
+</table>
 
 <br/>
 
@@ -52,12 +59,15 @@ exploring new technologies, and building projects that solve real-world problems
 
 <div align="center">
 
-<a href="mailto:danyamusbah8@gmail.com"><b>Email</b></a> &nbsp;/&nbsp;
-<a href="https://www.linkedin.com/in/danya-musbah-87098838b/"><b>LinkedIn</b></a> &nbsp;/&nbsp;
-<a href="https://www.instagram.com/danya_musbah"><b>Instagram</b></a> &nbsp;/&nbsp;
-<a href="https://www.youtube.com/@danya-musbah"><b>YouTube</b></a> &nbsp;/&nbsp;
-<a href="https://www.facebook.com/danya.musbah/"><b>Facebook</b></a> &nbsp;/&nbsp;
-<a href="https://www.pinterest.com/242danya173/"><b>Pinterest</b></a>
+<a href="mailto:danyamusbah8@gmail.com"><img src="https://img.shields.io/badge/EMAIL-danyamusbah8%40gmail.com-ff6f59?style=for-the-badge&labelColor=0e0f13" alt="Email" /></a>
+<a href="https://github.com/danya-musbah"><img src="https://img.shields.io/badge/GITHUB-danya--musbah-f2a65a?style=for-the-badge&labelColor=0e0f13" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/danya-musbah-87098838b/"><img src="https://img.shields.io/badge/LINKEDIN-danya--musbah-8fbf9f?style=for-the-badge&labelColor=0e0f13" alt="LinkedIn" /></a>
+<br/>
+<a href="https://www.instagram.com/danya_musbah"><img src="https://img.shields.io/badge/INSTAGRAM-danya__musbah-4fb0a5?style=for-the-badge&labelColor=0e0f13" alt="Instagram" /></a>
+<a href="https://www.youtube.com/@danya-musbah"><img src="https://img.shields.io/badge/YOUTUBE-danya--musbah-6fa8dc?style=for-the-badge&labelColor=0e0f13" alt="YouTube" /></a>
+<br/>
+<a href="https://www.facebook.com/danya.musbah/"><img src="https://img.shields.io/badge/FACEBOOK-danya.musbah-e07a9b?style=for-the-badge&labelColor=0e0f13" alt="Facebook" /></a>
+<a href="https://www.pinterest.com/242danya173/"><img src="https://img.shields.io/badge/PINTEREST-242danya173-c8b28a?style=for-the-badge&labelColor=0e0f13" alt="Pinterest" /></a>
 
 <br/><br/>
 
@@ -65,7 +75,7 @@ exploring new technologies, and building projects that solve real-world problems
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=danya-musbah&style=flat-square&color=ff6f59&labelColor=0e0f13&label=VIEWS" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=danya-musbah&style=for-the-badge&color=ff6f59&labelColor=0e0f13&label=VIEWS" alt="Profile views" />
 
 </div>
 
