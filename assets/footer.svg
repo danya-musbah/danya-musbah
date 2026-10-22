@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 170" width="1000" height="170" role="img" aria-label="Build. Learn. Ship. Repeat.">
+<rect width="1000" height="170" rx="18" fill="#0e0f13"/>
+<text x="500" y="38" text-anchor="middle" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="11" letter-spacing="4" fill="#8fbf9f">THE LOOP</text>
+<text x="150" y="92" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="44" fill="#4a4d57">Build.
+  <animate attributeName="fill" values="#4a4d57;#ff6f59;#efe6d5;#4a4d57;#4a4d57" keyTimes="0;0.06;0.16;0.26;1" dur="6.0s" begin="0.0s" repeatCount="indefinite"/></text>
+<text x="380" y="92" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="44" fill="#4a4d57">Learn.
+  <animate attributeName="fill" values="#4a4d57;#ff6f59;#efe6d5;#4a4d57;#4a4d57" keyTimes="0;0.06;0.16;0.26;1" dur="6.0s" begin="1.5s" repeatCount="indefinite"/></text>
+<text x="600" y="92" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="44" fill="#4a4d57">Ship.
+  <animate attributeName="fill" values="#4a4d57;#ff6f59;#efe6d5;#4a4d57;#4a4d57" keyTimes="0;0.06;0.16;0.26;1" dur="6.0s" begin="3.0s" repeatCount="indefinite"/></text>
+<text x="835" y="92" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="44" fill="#4a4d57">Repeat.
+  <animate attributeName="fill" values="#4a4d57;#ff6f59;#efe6d5;#4a4d57;#4a4d57" keyTimes="0;0.06;0.16;0.26;1" dur="6.0s" begin="4.5s" repeatCount="indefinite"/></text>
+<line x1="60" y1="124" x2="940" y2="124" stroke="#efe6d5" stroke-opacity=".15"/>
+<rect y="122" width="70" height="4" rx="2" fill="#ff6f59"><animate attributeName="x" values="60;870;60" dur="12.0s" repeatCount="indefinite"/></rect>
+<text x="500" y="152" text-anchor="middle" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="11" fill="#9aa5b1">danya-musbah  /  danyamusbah8@gmail.com</text>
+</svg>

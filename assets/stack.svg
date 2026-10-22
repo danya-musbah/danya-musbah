@@ -1,0 +1,475 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 868" width="900" height="868" role="img" aria-label="Periodic table of technologies: C, C#, C++, Java, JavaScript, TypeScript, PHP, Python, HTML5, CSS3, React, Next.js, Nuxt.js, Bootstrap, Chart.js, Context API, EJS, Storybook, JavaFX, Node.js, Express.js, FastAPI, Flask, Django, Laravel, Socket.io, JWT, Nodemon, Node-RED, NumPy, Pandas, TensorFlow, MySQL, PostgreSQL, SQL Server, Neo4j, Supabase, Oracle, AWS, Azure, Google Cloud, Cloudflare, Vercel, Render, Apache, Git, GitHub, GitLab, GH Actions, GitLab CI, ESLint, FFmpeg, Win Terminal, Figma, Framer, Canva, Blender, Unity, Jira, Notion, Trello, Portfolio">
+<defs>
+  <linearGradient id="scan" x1="0" x2="1"><stop offset="0" stop-color="#efe6d5" stop-opacity="0"/><stop offset=".5" stop-color="#efe6d5" stop-opacity=".09"/><stop offset="1" stop-color="#efe6d5" stop-opacity="0"/></linearGradient>
+  <clipPath id="clip"><rect x="0" y="104" width="900" height="764"/></clipPath>
+</defs>
+<rect width="900" height="868" rx="18" fill="#0e0f13"/>
+<text x="22.0" y="46" font-family="Georgia, 'Times New Roman', serif" font-size="26" fill="#efe6d5">The periodic table of my stack</text>
+<text x="22.0" y="68" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="11" fill="#9aa5b1">62 elements, grouped by what they do</text>
+<rect x="22.0" y="86" width="9" height="9" rx="2" fill="#ff6f59"/>
+<text x="36.0" y="94.5" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10" fill="#efe6d5" fill-opacity=".8">Languages</text>
+<rect x="106.69999999999999" y="86" width="9" height="9" rx="2" fill="#f2a65a"/>
+<text x="120.69999999999999" y="94.5" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10" fill="#efe6d5" fill-opacity=".8">Frontend</text>
+<rect x="185.1" y="86" width="9" height="9" rx="2" fill="#e9c46a"/>
+<text x="199.1" y="94.5" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10" fill="#efe6d5" fill-opacity=".8">Backend</text>
+<rect x="257.2" y="86" width="9" height="9" rx="2" fill="#8fbf9f"/>
+<text x="271.2" y="94.5" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10" fill="#efe6d5" fill-opacity=".8">Data &amp; ML</text>
+<rect x="341.9" y="86" width="9" height="9" rx="2" fill="#4fb0a5"/>
+<text x="355.9" y="94.5" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10" fill="#efe6d5" fill-opacity=".8">Databases</text>
+<rect x="426.59999999999997" y="86" width="9" height="9" rx="2" fill="#6fa8dc"/>
+<text x="440.59999999999997" y="94.5" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10" fill="#efe6d5" fill-opacity=".8">Cloud</text>
+<rect x="486.09999999999997" y="86" width="9" height="9" rx="2" fill="#e07a9b"/>
+<text x="500.09999999999997" y="94.5" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10" fill="#efe6d5" fill-opacity=".8">Tooling</text>
+<rect x="558.1999999999999" y="86" width="9" height="9" rx="2" fill="#b9c0c9"/>
+<text x="572.1999999999999" y="94.5" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10" fill="#efe6d5" fill-opacity=".8">Design</text>
+<rect x="623.9999999999999" y="86" width="9" height="9" rx="2" fill="#c8b28a"/>
+<text x="637.9999999999999" y="94.5" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10" fill="#efe6d5" fill-opacity=".8">Planning</text>
+<g>
+<rect x="22.0" y="112" width="100" height="84" rx="9" fill="#ff6f59" fill-opacity=".10" stroke="#ff6f59" stroke-opacity=".55">
+  <animate attributeName="stroke-opacity" values=".35;.95;.35" dur="5s" begin="0.0s" repeatCount="indefinite"/></rect>
+<text x="31.0" y="129" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10" fill="#ff6f59">01</text>
+<text x="72.0" y="164" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="30" font-weight="bold" fill="#efe6d5">C</text>
+<text x="72.0" y="186" text-anchor="middle" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10" fill="#efe6d5" fill-opacity=".72">C</text>
+</g>
+<g>
+<rect x="130.0" y="112" width="100" height="84" rx="9" fill="#ff6f59" fill-opacity=".10" stroke="#ff6f59" stroke-opacity=".55">
+  <animate attributeName="stroke-opacity" values=".35;.95;.35" dur="5s" begin="0.3s" repeatCount="indefinite"/></rect>
+<text x="139.0" y="129" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10" fill="#ff6f59">02</text>
+<text x="180.0" y="164" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="30" font-weight="bold" fill="#efe6d5">C#</text>
+<text x="180.0" y="186" text-anchor="middle" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10" fill="#efe6d5" fill-opacity=".72">C#</text>
+</g>
+<g>
+<rect x="238.0" y="112" width="100" height="84" rx="9" fill="#ff6f59" fill-opacity=".10" stroke="#ff6f59" stroke-opacity=".55">
+  <animate attributeName="stroke-opacity" values=".35;.95;.35" dur="5s" begin="0.6s" repeatCount="indefinite"/></rect>
+<text x="247.0" y="129" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10" fill="#ff6f59">03</text>
+<text x="288.0" y="164" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="30" font-weight="bold" fill="#efe6d5">C+</text>
+<text x="288.0" y="186" text-anchor="middle" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10" fill="#efe6d5" fill-opacity=".72">C++</text>
+</g>
+<g>
+<rect x="346.0" y="112" width="100" height="84" rx="9" fill="#ff6f59" fill-opacity=".10" stroke="#ff6f59" stroke-opacity=".55">
+  <animate attributeName="stroke-opacity" values=".35;.95;.35" dur="5s" begin="0.9s" repeatCount="indefinite"/></rect>
+<text x="355.0" y="129" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10" fill="#ff6f59">04</text>
+<text x="396.0" y="164" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="30" font-weight="bold" fill="#efe6d5">Jv</text>
+<text x="396.0" y="186" text-anchor="middle" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10" fill="#efe6d5" fill-opacity=".72">Java</text>
+</g>
+<g>
+<rect x="454.0" y="112" width="100" height="84" rx="9" fill="#ff6f59" fill-opacity=".10" stroke="#ff6f59" stroke-opacity=".55">
+  <animate attributeName="stroke-opacity" values=".35;.95;.35" dur="5s" begin="1.2s" repeatCount="indefinite"/></rect>
+<text x="463.0" y="129" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10" fill="#ff6f59">05</text>
+<text x="504.0" y="164" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="30" font-weight="bold" fill="#efe6d5">Js</text>
+<text x="504.0" y="186" text-anchor="middle" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10" fill="#efe6d5" fill-opacity=".72">JavaScript</text>
+</g>
+<g>
+<rect x="562.0" y="112" width="100" height="84" rx="9" fill="#ff6f59" fill-opacity=".10" stroke="#ff6f59" stroke-opacity=".55">
+  <animate attributeName="stroke-opacity" values=".35;.95;.35" dur="5s" begin="1.5s" repeatCount="indefinite"/></rect>
+<text x="571.0" y="129" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10" fill="#ff6f59">06</text>
+<text x="612.0" y="164" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="30" font-weight="bold" fill="#efe6d5">Ts</text>
+<text x="612.0" y="186" text-anchor="middle" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10" fill="#efe6d5" fill-opacity=".72">TypeScript</text>
+</g>
+<g>
+<rect x="670.0" y="112" width="100" height="84" rx="9" fill="#ff6f59" fill-opacity=".10" stroke="#ff6f59" stroke-opacity=".55">
+  <animate attributeName="stroke-opacity" values=".35;.95;.35" dur="5s" begin="1.8s" repeatCount="indefinite"/></rect>
+<text x="679.0" y="129" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10" fill="#ff6f59">07</text>
+<text x="720.0" y="164" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="30" font-weight="bold" fill="#efe6d5">Ph</text>
+<text x="720.0" y="186" text-anchor="middle" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10" fill="#efe6d5" fill-opacity=".72">PHP</text>
+</g>
+<g>
+<rect x="778.0" y="112" width="100" height="84" rx="9" fill="#ff6f59" fill-opacity=".10" stroke="#ff6f59" stroke-opacity=".55">
+  <animate attributeName="stroke-opacity" values=".35;.95;.35" dur="5s" begin="2.1s" repeatCount="indefinite"/></rect>
+<text x="787.0" y="129" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10" fill="#ff6f59">08</text>
+<text x="828.0" y="164" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="30" font-weight="bold" fill="#efe6d5">Py</text>
+<text x="828.0" y="186" text-anchor="middle" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10" fill="#efe6d5" fill-opacity=".72">Python</text>
+</g>
+<g>
+<rect x="22.0" y="204" width="100" height="84" rx="9" fill="#ff6f59" fill-opacity=".10" stroke="#ff6f59" stroke-opacity=".55">
+  <animate attributeName="stroke-opacity" values=".35;.95;.35" dur="5s" begin="0.3s" repeatCount="indefinite"/></rect>
+<text x="31.0" y="221" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10" fill="#ff6f59">09</text>
+<text x="72.0" y="256" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="30" font-weight="bold" fill="#efe6d5">H5</text>
+<text x="72.0" y="278" text-anchor="middle" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10" fill="#efe6d5" fill-opacity=".72">HTML5</text>
+</g>
+<g>
+<rect x="130.0" y="204" width="100" height="84" rx="9" fill="#ff6f59" fill-opacity=".10" stroke="#ff6f59" stroke-opacity=".55">
+  <animate attributeName="stroke-opacity" values=".35;.95;.35" dur="5s" begin="0.6s" repeatCount="indefinite"/></rect>
+<text x="139.0" y="221" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10" fill="#ff6f59">10</text>
+<text x="180.0" y="256" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="30" font-weight="bold" fill="#efe6d5">C3</text>
+<text x="180.0" y="278" text-anchor="middle" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10" fill="#efe6d5" fill-opacity=".72">CSS3</text>
+</g>
+<g>
+<rect x="238.0" y="204" width="100" height="84" rx="9" fill="#f2a65a" fill-opacity=".10" stroke="#f2a65a" stroke-opacity=".55">
+  <animate attributeName="stroke-opacity" values=".35;.95;.35" dur="5s" begin="0.9s" repeatCount="indefinite"/></rect>
+<text x="247.0" y="221" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10" fill="#f2a65a">11</text>
+<text x="288.0" y="256" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="30" font-weight="bold" fill="#efe6d5">Re</text>
+<text x="288.0" y="278" text-anchor="middle" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10" fill="#efe6d5" fill-opacity=".72">React</text>
+</g>
+<g>
+<rect x="346.0" y="204" width="100" height="84" rx="9" fill="#f2a65a" fill-opacity=".10" stroke="#f2a65a" stroke-opacity=".55">
+  <animate attributeName="stroke-opacity" values=".35;.95;.35" dur="5s" begin="1.2s" repeatCount="indefinite"/></rect>
+<text x="355.0" y="221" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10" fill="#f2a65a">12</text>
+<text x="396.0" y="256" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="30" font-weight="bold" fill="#efe6d5">Nx</text>
+<text x="396.0" y="278" text-anchor="middle" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10" fill="#efe6d5" fill-opacity=".72">Next.js</text>
+</g>
+<g>
+<rect x="454.0" y="204" width="100" height="84" rx="9" fill="#f2a65a" fill-opacity=".10" stroke="#f2a65a" stroke-opacity=".55">
+  <animate attributeName="stroke-opacity" values=".35;.95;.35" dur="5s" begin="1.5s" repeatCount="indefinite"/></rect>
+<text x="463.0" y="221" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10" fill="#f2a65a">13</text>
+<text x="504.0" y="256" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="30" font-weight="bold" fill="#efe6d5">Nu</text>
+<text x="504.0" y="278" text-anchor="middle" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10" fill="#efe6d5" fill-opacity=".72">Nuxt.js</text>
+</g>
+<g>
+<rect x="562.0" y="204" width="100" height="84" rx="9" fill="#f2a65a" fill-opacity=".10" stroke="#f2a65a" stroke-opacity=".55">
+  <animate attributeName="stroke-opacity" values=".35;.95;.35" dur="5s" begin="1.8s" repeatCount="indefinite"/></rect>
+<text x="571.0" y="221" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10" fill="#f2a65a">14</text>
+<text x="612.0" y="256" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="30" font-weight="bold" fill="#efe6d5">Bs</text>
+<text x="612.0" y="278" text-anchor="middle" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10" fill="#efe6d5" fill-opacity=".72">Bootstrap</text>
+</g>
+<g>
+<rect x="670.0" y="204" width="100" height="84" rx="9" fill="#f2a65a" fill-opacity=".10" stroke="#f2a65a" stroke-opacity=".55">
+  <animate attributeName="stroke-opacity" values=".35;.95;.35" dur="5s" begin="2.1s" repeatCount="indefinite"/></rect>
+<text x="679.0" y="221" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10" fill="#f2a65a">15</text>
+<text x="720.0" y="256" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="30" font-weight="bold" fill="#efe6d5">Cj</text>
+<text x="720.0" y="278" text-anchor="middle" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10" fill="#efe6d5" fill-opacity=".72">Chart.js</text>
+</g>
+<g>
+<rect x="778.0" y="204" width="100" height="84" rx="9" fill="#f2a65a" fill-opacity=".10" stroke="#f2a65a" stroke-opacity=".55">
+  <animate attributeName="stroke-opacity" values=".35;.95;.35" dur="5s" begin="2.4s" repeatCount="indefinite"/></rect>
+<text x="787.0" y="221" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10" fill="#f2a65a">16</text>
+<text x="828.0" y="256" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="30" font-weight="bold" fill="#efe6d5">Cx</text>
+<text x="828.0" y="278" text-anchor="middle" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10" fill="#efe6d5" fill-opacity=".72">Context API</text>
+</g>
+<g>
+<rect x="22.0" y="296" width="100" height="84" rx="9" fill="#f2a65a" fill-opacity=".10" stroke="#f2a65a" stroke-opacity=".55">
+  <animate attributeName="stroke-opacity" values=".35;.95;.35" dur="5s" begin="0.6s" repeatCount="indefinite"/></rect>
+<text x="31.0" y="313" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10" fill="#f2a65a">17</text>
+<text x="72.0" y="348" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="30" font-weight="bold" fill="#efe6d5">Ej</text>
+<text x="72.0" y="370" text-anchor="middle" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10" fill="#efe6d5" fill-opacity=".72">EJS</text>
+</g>
+<g>
+<rect x="130.0" y="296" width="100" height="84" rx="9" fill="#f2a65a" fill-opacity=".10" stroke="#f2a65a" stroke-opacity=".55">
+  <animate attributeName="stroke-opacity" values=".35;.95;.35" dur="5s" begin="0.9s" repeatCount="indefinite"/></rect>
+<text x="139.0" y="313" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10" fill="#f2a65a">18</text>
+<text x="180.0" y="348" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="30" font-weight="bold" fill="#efe6d5">Sb</text>
+<text x="180.0" y="370" text-anchor="middle" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10" fill="#efe6d5" fill-opacity=".72">Storybook</text>
+</g>
+<g>
+<rect x="238.0" y="296" width="100" height="84" rx="9" fill="#f2a65a" fill-opacity=".10" stroke="#f2a65a" stroke-opacity=".55">
+  <animate attributeName="stroke-opacity" values=".35;.95;.35" dur="5s" begin="1.2s" repeatCount="indefinite"/></rect>
+<text x="247.0" y="313" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10" fill="#f2a65a">19</text>
+<text x="288.0" y="348" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="30" font-weight="bold" fill="#efe6d5">Fx</text>
+<text x="288.0" y="370" text-anchor="middle" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10" fill="#efe6d5" fill-opacity=".72">JavaFX</text>
+</g>
+<g>
+<rect x="346.0" y="296" width="100" height="84" rx="9" fill="#e9c46a" fill-opacity=".10" stroke="#e9c46a" stroke-opacity=".55">
+  <animate attributeName="stroke-opacity" values=".35;.95;.35" dur="5s" begin="1.5s" repeatCount="indefinite"/></rect>
+<text x="355.0" y="313" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10" fill="#e9c46a">20</text>
+<text x="396.0" y="348" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="30" font-weight="bold" fill="#efe6d5">No</text>
+<text x="396.0" y="370" text-anchor="middle" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10" fill="#efe6d5" fill-opacity=".72">Node.js</text>
+</g>
+<g>
+<rect x="454.0" y="296" width="100" height="84" rx="9" fill="#e9c46a" fill-opacity=".10" stroke="#e9c46a" stroke-opacity=".55">
+  <animate attributeName="stroke-opacity" values=".35;.95;.35" dur="5s" begin="1.8s" repeatCount="indefinite"/></rect>
+<text x="463.0" y="313" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10" fill="#e9c46a">21</text>
+<text x="504.0" y="348" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="30" font-weight="bold" fill="#efe6d5">Ex</text>
+<text x="504.0" y="370" text-anchor="middle" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10" fill="#efe6d5" fill-opacity=".72">Express.js</text>
+</g>
+<g>
+<rect x="562.0" y="296" width="100" height="84" rx="9" fill="#e9c46a" fill-opacity=".10" stroke="#e9c46a" stroke-opacity=".55">
+  <animate attributeName="stroke-opacity" values=".35;.95;.35" dur="5s" begin="2.1s" repeatCount="indefinite"/></rect>
+<text x="571.0" y="313" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10" fill="#e9c46a">22</text>
+<text x="612.0" y="348" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="30" font-weight="bold" fill="#efe6d5">Fa</text>
+<text x="612.0" y="370" text-anchor="middle" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10" fill="#efe6d5" fill-opacity=".72">FastAPI</text>
+</g>
+<g>
+<rect x="670.0" y="296" width="100" height="84" rx="9" fill="#e9c46a" fill-opacity=".10" stroke="#e9c46a" stroke-opacity=".55">
+  <animate attributeName="stroke-opacity" values=".35;.95;.35" dur="5s" begin="2.4s" repeatCount="indefinite"/></rect>
+<text x="679.0" y="313" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10" fill="#e9c46a">23</text>
+<text x="720.0" y="348" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="30" font-weight="bold" fill="#efe6d5">Fl</text>
+<text x="720.0" y="370" text-anchor="middle" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10" fill="#efe6d5" fill-opacity=".72">Flask</text>
+</g>
+<g>
+<rect x="778.0" y="296" width="100" height="84" rx="9" fill="#e9c46a" fill-opacity=".10" stroke="#e9c46a" stroke-opacity=".55">
+  <animate attributeName="stroke-opacity" values=".35;.95;.35" dur="5s" begin="2.7s" repeatCount="indefinite"/></rect>
+<text x="787.0" y="313" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10" fill="#e9c46a">24</text>
+<text x="828.0" y="348" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="30" font-weight="bold" fill="#efe6d5">Dj</text>
+<text x="828.0" y="370" text-anchor="middle" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10" fill="#efe6d5" fill-opacity=".72">Django</text>
+</g>
+<g>
+<rect x="22.0" y="388" width="100" height="84" rx="9" fill="#e9c46a" fill-opacity=".10" stroke="#e9c46a" stroke-opacity=".55">
+  <animate attributeName="stroke-opacity" values=".35;.95;.35" dur="5s" begin="0.9s" repeatCount="indefinite"/></rect>
+<text x="31.0" y="405" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10" fill="#e9c46a">25</text>
+<text x="72.0" y="440" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="30" font-weight="bold" fill="#efe6d5">Lv</text>
+<text x="72.0" y="462" text-anchor="middle" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10" fill="#efe6d5" fill-opacity=".72">Laravel</text>
+</g>
+<g>
+<rect x="130.0" y="388" width="100" height="84" rx="9" fill="#e9c46a" fill-opacity=".10" stroke="#e9c46a" stroke-opacity=".55">
+  <animate attributeName="stroke-opacity" values=".35;.95;.35" dur="5s" begin="1.2s" repeatCount="indefinite"/></rect>
+<text x="139.0" y="405" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10" fill="#e9c46a">26</text>
+<text x="180.0" y="440" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="30" font-weight="bold" fill="#efe6d5">So</text>
+<text x="180.0" y="462" text-anchor="middle" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10" fill="#efe6d5" fill-opacity=".72">Socket.io</text>
+</g>
+<g>
+<rect x="238.0" y="388" width="100" height="84" rx="9" fill="#e9c46a" fill-opacity=".10" stroke="#e9c46a" stroke-opacity=".55">
+  <animate attributeName="stroke-opacity" values=".35;.95;.35" dur="5s" begin="1.5s" repeatCount="indefinite"/></rect>
+<text x="247.0" y="405" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10" fill="#e9c46a">27</text>
+<text x="288.0" y="440" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="30" font-weight="bold" fill="#efe6d5">Jw</text>
+<text x="288.0" y="462" text-anchor="middle" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10" fill="#efe6d5" fill-opacity=".72">JWT</text>
+</g>
+<g>
+<rect x="346.0" y="388" width="100" height="84" rx="9" fill="#e9c46a" fill-opacity=".10" stroke="#e9c46a" stroke-opacity=".55">
+  <animate attributeName="stroke-opacity" values=".35;.95;.35" dur="5s" begin="1.8s" repeatCount="indefinite"/></rect>
+<text x="355.0" y="405" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10" fill="#e9c46a">28</text>
+<text x="396.0" y="440" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="30" font-weight="bold" fill="#efe6d5">Nm</text>
+<text x="396.0" y="462" text-anchor="middle" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10" fill="#efe6d5" fill-opacity=".72">Nodemon</text>
+</g>
+<g>
+<rect x="454.0" y="388" width="100" height="84" rx="9" fill="#e9c46a" fill-opacity=".10" stroke="#e9c46a" stroke-opacity=".55">
+  <animate attributeName="stroke-opacity" values=".35;.95;.35" dur="5s" begin="2.1s" repeatCount="indefinite"/></rect>
+<text x="463.0" y="405" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10" fill="#e9c46a">29</text>
+<text x="504.0" y="440" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="30" font-weight="bold" fill="#efe6d5">Nr</text>
+<text x="504.0" y="462" text-anchor="middle" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10" fill="#efe6d5" fill-opacity=".72">Node-RED</text>
+</g>
+<g>
+<rect x="562.0" y="388" width="100" height="84" rx="9" fill="#8fbf9f" fill-opacity=".10" stroke="#8fbf9f" stroke-opacity=".55">
+  <animate attributeName="stroke-opacity" values=".35;.95;.35" dur="5s" begin="2.4s" repeatCount="indefinite"/></rect>
+<text x="571.0" y="405" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10" fill="#8fbf9f">30</text>
+<text x="612.0" y="440" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="30" font-weight="bold" fill="#efe6d5">Np</text>
+<text x="612.0" y="462" text-anchor="middle" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10" fill="#efe6d5" fill-opacity=".72">NumPy</text>
+</g>
+<g>
+<rect x="670.0" y="388" width="100" height="84" rx="9" fill="#8fbf9f" fill-opacity=".10" stroke="#8fbf9f" stroke-opacity=".55">
+  <animate attributeName="stroke-opacity" values=".35;.95;.35" dur="5s" begin="2.7s" repeatCount="indefinite"/></rect>
+<text x="679.0" y="405" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10" fill="#8fbf9f">31</text>
+<text x="720.0" y="440" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="30" font-weight="bold" fill="#efe6d5">Pd</text>
+<text x="720.0" y="462" text-anchor="middle" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10" fill="#efe6d5" fill-opacity=".72">Pandas</text>
+</g>
+<g>
+<rect x="778.0" y="388" width="100" height="84" rx="9" fill="#8fbf9f" fill-opacity=".10" stroke="#8fbf9f" stroke-opacity=".55">
+  <animate attributeName="stroke-opacity" values=".35;.95;.35" dur="5s" begin="3.0s" repeatCount="indefinite"/></rect>
+<text x="787.0" y="405" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10" fill="#8fbf9f">32</text>
+<text x="828.0" y="440" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="30" font-weight="bold" fill="#efe6d5">Tf</text>
+<text x="828.0" y="462" text-anchor="middle" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10" fill="#efe6d5" fill-opacity=".72">TensorFlow</text>
+</g>
+<g>
+<rect x="22.0" y="480" width="100" height="84" rx="9" fill="#4fb0a5" fill-opacity=".10" stroke="#4fb0a5" stroke-opacity=".55">
+  <animate attributeName="stroke-opacity" values=".35;.95;.35" dur="5s" begin="1.2s" repeatCount="indefinite"/></rect>
+<text x="31.0" y="497" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10" fill="#4fb0a5">33</text>
+<text x="72.0" y="532" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="30" font-weight="bold" fill="#efe6d5">My</text>
+<text x="72.0" y="554" text-anchor="middle" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10" fill="#efe6d5" fill-opacity=".72">MySQL</text>
+</g>
+<g>
+<rect x="130.0" y="480" width="100" height="84" rx="9" fill="#4fb0a5" fill-opacity=".10" stroke="#4fb0a5" stroke-opacity=".55">
+  <animate attributeName="stroke-opacity" values=".35;.95;.35" dur="5s" begin="1.5s" repeatCount="indefinite"/></rect>
+<text x="139.0" y="497" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10" fill="#4fb0a5">34</text>
+<text x="180.0" y="532" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="30" font-weight="bold" fill="#efe6d5">Pg</text>
+<text x="180.0" y="554" text-anchor="middle" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10" fill="#efe6d5" fill-opacity=".72">PostgreSQL</text>
+</g>
+<g>
+<rect x="238.0" y="480" width="100" height="84" rx="9" fill="#4fb0a5" fill-opacity=".10" stroke="#4fb0a5" stroke-opacity=".55">
+  <animate attributeName="stroke-opacity" values=".35;.95;.35" dur="5s" begin="1.8s" repeatCount="indefinite"/></rect>
+<text x="247.0" y="497" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10" fill="#4fb0a5">35</text>
+<text x="288.0" y="532" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="30" font-weight="bold" fill="#efe6d5">Ms</text>
+<text x="288.0" y="554" text-anchor="middle" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10" fill="#efe6d5" fill-opacity=".72">SQL Server</text>
+</g>
+<g>
+<rect x="346.0" y="480" width="100" height="84" rx="9" fill="#4fb0a5" fill-opacity=".10" stroke="#4fb0a5" stroke-opacity=".55">
+  <animate attributeName="stroke-opacity" values=".35;.95;.35" dur="5s" begin="2.1s" repeatCount="indefinite"/></rect>
+<text x="355.0" y="497" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10" fill="#4fb0a5">36</text>
+<text x="396.0" y="532" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="30" font-weight="bold" fill="#efe6d5">N4</text>
+<text x="396.0" y="554" text-anchor="middle" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10" fill="#efe6d5" fill-opacity=".72">Neo4j</text>
+</g>
+<g>
+<rect x="454.0" y="480" width="100" height="84" rx="9" fill="#4fb0a5" fill-opacity=".10" stroke="#4fb0a5" stroke-opacity=".55">
+  <animate attributeName="stroke-opacity" values=".35;.95;.35" dur="5s" begin="2.4s" repeatCount="indefinite"/></rect>
+<text x="463.0" y="497" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10" fill="#4fb0a5">37</text>
+<text x="504.0" y="532" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="30" font-weight="bold" fill="#efe6d5">Sp</text>
+<text x="504.0" y="554" text-anchor="middle" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10" fill="#efe6d5" fill-opacity=".72">Supabase</text>
+</g>
+<g>
+<rect x="562.0" y="480" width="100" height="84" rx="9" fill="#4fb0a5" fill-opacity=".10" stroke="#4fb0a5" stroke-opacity=".55">
+  <animate attributeName="stroke-opacity" values=".35;.95;.35" dur="5s" begin="2.7s" repeatCount="indefinite"/></rect>
+<text x="571.0" y="497" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10" fill="#4fb0a5">38</text>
+<text x="612.0" y="532" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="30" font-weight="bold" fill="#efe6d5">Or</text>
+<text x="612.0" y="554" text-anchor="middle" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10" fill="#efe6d5" fill-opacity=".72">Oracle</text>
+</g>
+<g>
+<rect x="670.0" y="480" width="100" height="84" rx="9" fill="#6fa8dc" fill-opacity=".10" stroke="#6fa8dc" stroke-opacity=".55">
+  <animate attributeName="stroke-opacity" values=".35;.95;.35" dur="5s" begin="3.0s" repeatCount="indefinite"/></rect>
+<text x="679.0" y="497" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10" fill="#6fa8dc">39</text>
+<text x="720.0" y="532" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="30" font-weight="bold" fill="#efe6d5">Aw</text>
+<text x="720.0" y="554" text-anchor="middle" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10" fill="#efe6d5" fill-opacity=".72">AWS</text>
+</g>
+<g>
+<rect x="778.0" y="480" width="100" height="84" rx="9" fill="#6fa8dc" fill-opacity=".10" stroke="#6fa8dc" stroke-opacity=".55">
+  <animate attributeName="stroke-opacity" values=".35;.95;.35" dur="5s" begin="3.3s" repeatCount="indefinite"/></rect>
+<text x="787.0" y="497" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10" fill="#6fa8dc">40</text>
+<text x="828.0" y="532" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="30" font-weight="bold" fill="#efe6d5">Az</text>
+<text x="828.0" y="554" text-anchor="middle" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10" fill="#efe6d5" fill-opacity=".72">Azure</text>
+</g>
+<g>
+<rect x="22.0" y="572" width="100" height="84" rx="9" fill="#6fa8dc" fill-opacity=".10" stroke="#6fa8dc" stroke-opacity=".55">
+  <animate attributeName="stroke-opacity" values=".35;.95;.35" dur="5s" begin="1.5s" repeatCount="indefinite"/></rect>
+<text x="31.0" y="589" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10" fill="#6fa8dc">41</text>
+<text x="72.0" y="624" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="30" font-weight="bold" fill="#efe6d5">Gc</text>
+<text x="72.0" y="646" text-anchor="middle" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10" fill="#efe6d5" fill-opacity=".72">Google Cloud</text>
+</g>
+<g>
+<rect x="130.0" y="572" width="100" height="84" rx="9" fill="#6fa8dc" fill-opacity=".10" stroke="#6fa8dc" stroke-opacity=".55">
+  <animate attributeName="stroke-opacity" values=".35;.95;.35" dur="5s" begin="1.8s" repeatCount="indefinite"/></rect>
+<text x="139.0" y="589" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10" fill="#6fa8dc">42</text>
+<text x="180.0" y="624" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="30" font-weight="bold" fill="#efe6d5">Cf</text>
+<text x="180.0" y="646" text-anchor="middle" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10" fill="#efe6d5" fill-opacity=".72">Cloudflare</text>
+</g>
+<g>
+<rect x="238.0" y="572" width="100" height="84" rx="9" fill="#6fa8dc" fill-opacity=".10" stroke="#6fa8dc" stroke-opacity=".55">
+  <animate attributeName="stroke-opacity" values=".35;.95;.35" dur="5s" begin="2.1s" repeatCount="indefinite"/></rect>
+<text x="247.0" y="589" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10" fill="#6fa8dc">43</text>
+<text x="288.0" y="624" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="30" font-weight="bold" fill="#efe6d5">Vc</text>
+<text x="288.0" y="646" text-anchor="middle" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10" fill="#efe6d5" fill-opacity=".72">Vercel</text>
+</g>
+<g>
+<rect x="346.0" y="572" width="100" height="84" rx="9" fill="#6fa8dc" fill-opacity=".10" stroke="#6fa8dc" stroke-opacity=".55">
+  <animate attributeName="stroke-opacity" values=".35;.95;.35" dur="5s" begin="2.4s" repeatCount="indefinite"/></rect>
+<text x="355.0" y="589" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10" fill="#6fa8dc">44</text>
+<text x="396.0" y="624" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="30" font-weight="bold" fill="#efe6d5">Rn</text>
+<text x="396.0" y="646" text-anchor="middle" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10" fill="#efe6d5" fill-opacity=".72">Render</text>
+</g>
+<g>
+<rect x="454.0" y="572" width="100" height="84" rx="9" fill="#6fa8dc" fill-opacity=".10" stroke="#6fa8dc" stroke-opacity=".55">
+  <animate attributeName="stroke-opacity" values=".35;.95;.35" dur="5s" begin="2.7s" repeatCount="indefinite"/></rect>
+<text x="463.0" y="589" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10" fill="#6fa8dc">45</text>
+<text x="504.0" y="624" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="30" font-weight="bold" fill="#efe6d5">Ap</text>
+<text x="504.0" y="646" text-anchor="middle" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10" fill="#efe6d5" fill-opacity=".72">Apache</text>
+</g>
+<g>
+<rect x="562.0" y="572" width="100" height="84" rx="9" fill="#e07a9b" fill-opacity=".10" stroke="#e07a9b" stroke-opacity=".55">
+  <animate attributeName="stroke-opacity" values=".35;.95;.35" dur="5s" begin="3.0s" repeatCount="indefinite"/></rect>
+<text x="571.0" y="589" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10" fill="#e07a9b">46</text>
+<text x="612.0" y="624" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="30" font-weight="bold" fill="#efe6d5">Gi</text>
+<text x="612.0" y="646" text-anchor="middle" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10" fill="#efe6d5" fill-opacity=".72">Git</text>
+</g>
+<g>
+<rect x="670.0" y="572" width="100" height="84" rx="9" fill="#e07a9b" fill-opacity=".10" stroke="#e07a9b" stroke-opacity=".55">
+  <animate attributeName="stroke-opacity" values=".35;.95;.35" dur="5s" begin="3.3s" repeatCount="indefinite"/></rect>
+<text x="679.0" y="589" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10" fill="#e07a9b">47</text>
+<text x="720.0" y="624" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="30" font-weight="bold" fill="#efe6d5">Gh</text>
+<text x="720.0" y="646" text-anchor="middle" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10" fill="#efe6d5" fill-opacity=".72">GitHub</text>
+</g>
+<g>
+<rect x="778.0" y="572" width="100" height="84" rx="9" fill="#e07a9b" fill-opacity=".10" stroke="#e07a9b" stroke-opacity=".55">
+  <animate attributeName="stroke-opacity" values=".35;.95;.35" dur="5s" begin="3.6s" repeatCount="indefinite"/></rect>
+<text x="787.0" y="589" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10" fill="#e07a9b">48</text>
+<text x="828.0" y="624" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="30" font-weight="bold" fill="#efe6d5">Gl</text>
+<text x="828.0" y="646" text-anchor="middle" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10" fill="#efe6d5" fill-opacity=".72">GitLab</text>
+</g>
+<g>
+<rect x="22.0" y="664" width="100" height="84" rx="9" fill="#e07a9b" fill-opacity=".10" stroke="#e07a9b" stroke-opacity=".55">
+  <animate attributeName="stroke-opacity" values=".35;.95;.35" dur="5s" begin="1.8s" repeatCount="indefinite"/></rect>
+<text x="31.0" y="681" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10" fill="#e07a9b">49</text>
+<text x="72.0" y="716" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="30" font-weight="bold" fill="#efe6d5">Ga</text>
+<text x="72.0" y="738" text-anchor="middle" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10" fill="#efe6d5" fill-opacity=".72">GH Actions</text>
+</g>
+<g>
+<rect x="130.0" y="664" width="100" height="84" rx="9" fill="#e07a9b" fill-opacity=".10" stroke="#e07a9b" stroke-opacity=".55">
+  <animate attributeName="stroke-opacity" values=".35;.95;.35" dur="5s" begin="2.1s" repeatCount="indefinite"/></rect>
+<text x="139.0" y="681" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10" fill="#e07a9b">50</text>
+<text x="180.0" y="716" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="30" font-weight="bold" fill="#efe6d5">Ci</text>
+<text x="180.0" y="738" text-anchor="middle" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10" fill="#efe6d5" fill-opacity=".72">GitLab CI</text>
+</g>
+<g>
+<rect x="238.0" y="664" width="100" height="84" rx="9" fill="#e07a9b" fill-opacity=".10" stroke="#e07a9b" stroke-opacity=".55">
+  <animate attributeName="stroke-opacity" values=".35;.95;.35" dur="5s" begin="2.4s" repeatCount="indefinite"/></rect>
+<text x="247.0" y="681" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10" fill="#e07a9b">51</text>
+<text x="288.0" y="716" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="30" font-weight="bold" fill="#efe6d5">Es</text>
+<text x="288.0" y="738" text-anchor="middle" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10" fill="#efe6d5" fill-opacity=".72">ESLint</text>
+</g>
+<g>
+<rect x="346.0" y="664" width="100" height="84" rx="9" fill="#e07a9b" fill-opacity=".10" stroke="#e07a9b" stroke-opacity=".55">
+  <animate attributeName="stroke-opacity" values=".35;.95;.35" dur="5s" begin="2.7s" repeatCount="indefinite"/></rect>
+<text x="355.0" y="681" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10" fill="#e07a9b">52</text>
+<text x="396.0" y="716" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="30" font-weight="bold" fill="#efe6d5">Ff</text>
+<text x="396.0" y="738" text-anchor="middle" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10" fill="#efe6d5" fill-opacity=".72">FFmpeg</text>
+</g>
+<g>
+<rect x="454.0" y="664" width="100" height="84" rx="9" fill="#e07a9b" fill-opacity=".10" stroke="#e07a9b" stroke-opacity=".55">
+  <animate attributeName="stroke-opacity" values=".35;.95;.35" dur="5s" begin="3.0s" repeatCount="indefinite"/></rect>
+<text x="463.0" y="681" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10" fill="#e07a9b">53</text>
+<text x="504.0" y="716" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="30" font-weight="bold" fill="#efe6d5">Wt</text>
+<text x="504.0" y="738" text-anchor="middle" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10" fill="#efe6d5" fill-opacity=".72">Win Terminal</text>
+</g>
+<g>
+<rect x="562.0" y="664" width="100" height="84" rx="9" fill="#b9c0c9" fill-opacity=".10" stroke="#b9c0c9" stroke-opacity=".55">
+  <animate attributeName="stroke-opacity" values=".35;.95;.35" dur="5s" begin="3.3s" repeatCount="indefinite"/></rect>
+<text x="571.0" y="681" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10" fill="#b9c0c9">54</text>
+<text x="612.0" y="716" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="30" font-weight="bold" fill="#efe6d5">Fg</text>
+<text x="612.0" y="738" text-anchor="middle" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10" fill="#efe6d5" fill-opacity=".72">Figma</text>
+</g>
+<g>
+<rect x="670.0" y="664" width="100" height="84" rx="9" fill="#b9c0c9" fill-opacity=".10" stroke="#b9c0c9" stroke-opacity=".55">
+  <animate attributeName="stroke-opacity" values=".35;.95;.35" dur="5s" begin="3.6s" repeatCount="indefinite"/></rect>
+<text x="679.0" y="681" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10" fill="#b9c0c9">55</text>
+<text x="720.0" y="716" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="30" font-weight="bold" fill="#efe6d5">Fr</text>
+<text x="720.0" y="738" text-anchor="middle" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10" fill="#efe6d5" fill-opacity=".72">Framer</text>
+</g>
+<g>
+<rect x="778.0" y="664" width="100" height="84" rx="9" fill="#b9c0c9" fill-opacity=".10" stroke="#b9c0c9" stroke-opacity=".55">
+  <animate attributeName="stroke-opacity" values=".35;.95;.35" dur="5s" begin="3.9s" repeatCount="indefinite"/></rect>
+<text x="787.0" y="681" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10" fill="#b9c0c9">56</text>
+<text x="828.0" y="716" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="30" font-weight="bold" fill="#efe6d5">Cv</text>
+<text x="828.0" y="738" text-anchor="middle" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10" fill="#efe6d5" fill-opacity=".72">Canva</text>
+</g>
+<g>
+<rect x="22.0" y="756" width="100" height="84" rx="9" fill="#b9c0c9" fill-opacity=".10" stroke="#b9c0c9" stroke-opacity=".55">
+  <animate attributeName="stroke-opacity" values=".35;.95;.35" dur="5s" begin="2.1s" repeatCount="indefinite"/></rect>
+<text x="31.0" y="773" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10" fill="#b9c0c9">57</text>
+<text x="72.0" y="808" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="30" font-weight="bold" fill="#efe6d5">Bl</text>
+<text x="72.0" y="830" text-anchor="middle" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10" fill="#efe6d5" fill-opacity=".72">Blender</text>
+</g>
+<g>
+<rect x="130.0" y="756" width="100" height="84" rx="9" fill="#b9c0c9" fill-opacity=".10" stroke="#b9c0c9" stroke-opacity=".55">
+  <animate attributeName="stroke-opacity" values=".35;.95;.35" dur="5s" begin="2.4s" repeatCount="indefinite"/></rect>
+<text x="139.0" y="773" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10" fill="#b9c0c9">58</text>
+<text x="180.0" y="808" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="30" font-weight="bold" fill="#efe6d5">Un</text>
+<text x="180.0" y="830" text-anchor="middle" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10" fill="#efe6d5" fill-opacity=".72">Unity</text>
+</g>
+<g>
+<rect x="238.0" y="756" width="100" height="84" rx="9" fill="#c8b28a" fill-opacity=".10" stroke="#c8b28a" stroke-opacity=".55">
+  <animate attributeName="stroke-opacity" values=".35;.95;.35" dur="5s" begin="2.7s" repeatCount="indefinite"/></rect>
+<text x="247.0" y="773" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10" fill="#c8b28a">59</text>
+<text x="288.0" y="808" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="30" font-weight="bold" fill="#efe6d5">Ji</text>
+<text x="288.0" y="830" text-anchor="middle" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10" fill="#efe6d5" fill-opacity=".72">Jira</text>
+</g>
+<g>
+<rect x="346.0" y="756" width="100" height="84" rx="9" fill="#c8b28a" fill-opacity=".10" stroke="#c8b28a" stroke-opacity=".55">
+  <animate attributeName="stroke-opacity" values=".35;.95;.35" dur="5s" begin="3.0s" repeatCount="indefinite"/></rect>
+<text x="355.0" y="773" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10" fill="#c8b28a">60</text>
+<text x="396.0" y="808" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="30" font-weight="bold" fill="#efe6d5">Nt</text>
+<text x="396.0" y="830" text-anchor="middle" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10" fill="#efe6d5" fill-opacity=".72">Notion</text>
+</g>
+<g>
+<rect x="454.0" y="756" width="100" height="84" rx="9" fill="#c8b28a" fill-opacity=".10" stroke="#c8b28a" stroke-opacity=".55">
+  <animate attributeName="stroke-opacity" values=".35;.95;.35" dur="5s" begin="3.3s" repeatCount="indefinite"/></rect>
+<text x="463.0" y="773" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10" fill="#c8b28a">61</text>
+<text x="504.0" y="808" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="30" font-weight="bold" fill="#efe6d5">Tr</text>
+<text x="504.0" y="830" text-anchor="middle" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10" fill="#efe6d5" fill-opacity=".72">Trello</text>
+</g>
+<g>
+<rect x="562.0" y="756" width="100" height="84" rx="9" fill="#c8b28a" fill-opacity=".10" stroke="#c8b28a" stroke-opacity=".55">
+  <animate attributeName="stroke-opacity" values=".35;.95;.35" dur="5s" begin="3.6s" repeatCount="indefinite"/></rect>
+<text x="571.0" y="773" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10" fill="#c8b28a">62</text>
+<text x="612.0" y="808" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="30" font-weight="bold" fill="#efe6d5">Pf</text>
+<text x="612.0" y="830" text-anchor="middle" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10" fill="#efe6d5" fill-opacity=".72">Portfolio</text>
+</g>
+<g>
+<rect x="670.0" y="756" width="100" height="84" rx="9" fill="none" stroke="#efe6d5" stroke-opacity=".25" stroke-dasharray="4 5"/>
+<text x="679.0" y="773" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10" fill="#9aa5b1">63</text>
+<text x="720.0" y="808" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="30" font-style="italic" fill="#efe6d5" fill-opacity=".4">?</text>
+<text x="720.0" y="830" text-anchor="middle" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10" fill="#efe6d5" fill-opacity=".4">next up</text>
+</g>
+<g>
+<rect x="778.0" y="756" width="100" height="84" rx="9" fill="none" stroke="#efe6d5" stroke-opacity=".25" stroke-dasharray="4 5"/>
+<text x="787.0" y="773" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10" fill="#9aa5b1">64</text>
+<text x="828.0" y="808" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="30" font-style="italic" fill="#efe6d5" fill-opacity=".4">?</text>
+<text x="828.0" y="830" text-anchor="middle" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10" fill="#efe6d5" fill-opacity=".4">unknown</text>
+</g>
+<g clip-path="url(#clip)"><rect y="104" width="140" height="764" fill="url(#scan)">
+<animate attributeName="x" values="-140;900;-140" dur="11s" repeatCount="indefinite"/></rect></g>
+</svg>

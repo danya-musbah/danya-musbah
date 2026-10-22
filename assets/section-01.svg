@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 64" width="1000" height="64" role="img" aria-label="About">
+<rect width="1000" height="64" rx="12" fill="#0e0f13"/>
+<text x="24" y="38" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" letter-spacing="2" fill="#ff6f59">01</text>
+<text x="62" y="43" font-family="Georgia, 'Times New Roman', serif" font-size="30" fill="#efe6d5">About</text>
+<line x1="171" y1="33" x2="976" y2="33" stroke="#efe6d5" stroke-opacity=".18"/>
+<circle cy="33" r="4" fill="#ff6f59"><animate attributeName="cx" values="171;976;171" dur="9s" repeatCount="indefinite"/></circle>
+</svg>
