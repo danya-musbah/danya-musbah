@@ -1,18 +1,144 @@
-# 💫 About Me:
-# Hi, I'm Danya 👋<br><br>I'm a Software Engineering graduate passionate about building practical software, AI-powered applications, and data-driven solutions.<br><br>### What I Work On<br>-  Full-Stack Development and REST APIs<br>-  Data Analytics and Data Science<br>-  AI Engineering, Machine Learning, and NLP<br>-  Python and intelligent applications<br>-  Databases, backend systems, and software architecture<br><br>### My Approach<br>I enjoy turning ideas into functional, well-designed software, exploring new technologies, and building projects that solve real-world problems.<br><br>Currently building and sharing projects to strengthen my engineering skills and create meaningful software.<br><br>**Build. Learn. Ship. Repeat.**
+<!-- ============================================================
+     Palette
+     Background  #0d1117   Teal  #2dd4bf   Amber  #f5b544
+     Text        #c9d1d9   Line  #1f2a35
+     ============================================================ -->
 
+<div align="center">
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/danya.musbah/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/danya_musbah) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/danya-musbah-87098838b/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://www.pinterest.com/242danya173/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@danya-musbah) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:danyamusbah8@gmail.com) 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f2027,50:173a40,100:2c5364&text=Danya%20Musbah&fontSize=64&fontColor=f5f1e8&fontAlignY=38&desc=Software%20Engineer&descSize=20&descColor=2dd4bf&descAlignY=58&animation=fadeIn" alt="Danya Musbah" />
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Node-RED](https://img.shields.io/badge/Node--RED-%238F0000.svg?style=for-the-badge&logo=node-red&logoColor=white) ![Nuxt JS](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxt.js&logoColor=#00DC82) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![FFmpeg](https://shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&style=for-the-badge&labelColor=171717&logoColor=5cb85c) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=danya-musbah&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=danya-musbah&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=danya-musbah&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<a href="https://github.com/danya-musbah">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=1100&color=2DD4BF&center=true&vCenter=true&width=720&height=50&lines=Full-Stack+Development+%26+REST+APIs;Data+Analytics+%26+Data+Science;Machine+Learning+%26+NLP;Backend+Systems+%26+Software+Architecture;Build.+Learn.+Ship.+Repeat." alt="Typing intro" />
+</a>
 
----
-[![](https://komarev.com/ghpvc/?username=danya-musbah&icon=0&color=0)](https://visitcount.itsvg.in)
+<br/>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<a href="https://www.linkedin.com/in/danya-musbah-87098838b/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=2dd4bf&labelColor=0d1117&color=1f2a35" alt="LinkedIn" /></a>
+<a href="mailto:danyamusbah8@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=f5b544&labelColor=0d1117&color=1f2a35" alt="Email" /></a>
+<a href="https://www.instagram.com/danya_musbah"><img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=2dd4bf&labelColor=0d1117&color=1f2a35" alt="Instagram" /></a>
+<a href="https://www.youtube.com/@danya-musbah"><img src="https://img.shields.io/badge/YouTube-0d1117?style=for-the-badge&logo=youtube&logoColor=f5b544&labelColor=0d1117&color=1f2a35" alt="YouTube" /></a>
+<a href="https://www.facebook.com/danya.musbah/"><img src="https://img.shields.io/badge/Facebook-0d1117?style=for-the-badge&logo=facebook&logoColor=2dd4bf&labelColor=0d1117&color=1f2a35" alt="Facebook" /></a>
+<a href="https://www.pinterest.com/242danya173/"><img src="https://img.shields.io/badge/Pinterest-0d1117?style=for-the-badge&logo=pinterest&logoColor=f5b544&labelColor=0d1117&color=1f2a35" alt="Pinterest" /></a>
+
+</div>
+
+<br/>
+
+<img width="100%" height="2" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:2dd4bf,100:f5b544" alt="" />
+
+<br/>
+
+## `~/about`
+
+```yaml
+name:      Danya Musbah
+role:      Software Engineering Graduate
+focus:
+  - Full-Stack Development and REST APIs
+  - Data Analytics and Data Science
+  - AI Engineering, Machine Learning, NLP
+  - Databases, Backend Systems, Architecture
+approach:  Turning ideas into functional, well-designed software
+           that solves real-world problems.
+status:    Building and sharing projects, one commit at a time.
+motto:     Build. Learn. Ship. Repeat.
+```
+
+<br/>
+
+## `~/stack`
+
+<table>
+  <tr>
+    <td width="170"><b>Languages</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=py,js,ts,java,cs,cpp,c,php&theme=dark" alt="Languages" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Frontend</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nuxtjs,bootstrap,storybook&theme=dark" alt="Frontend" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Backend</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,flask,laravel,socketio&theme=dark" alt="Backend" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Data and ML</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=numpy,pandas,tensorflow&theme=dark" alt="Data and ML" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Databases</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=mysql,postgres,supabase,neo4j&theme=dark" alt="Databases" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Cloud and Deploy</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=aws,azure,gcp,cloudflare,vercel,apache&theme=dark" alt="Cloud" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Workflow</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=git,github,gitlab,githubactions,eslint,jira,notion,trello&theme=dark" alt="Workflow" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Design and Media</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=figma,framer,blender,unity&theme=dark" alt="Design" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+## `~/activity`
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.shion.dev/api?username=danya-musbah&show_icons=true&hide_border=false&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=2dd4bf&icon_color=f5b544&text_color=c9d1d9&border_color=1f2a35&border_radius=10&rank_icon=github" alt="GitHub stats" />
+<img height="180" src="https://github-readme-stats.shion.dev/api/top-langs/?username=danya-musbah&layout=compact&hide_border=false&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=2dd4bf&text_color=c9d1d9&border_color=1f2a35&border_radius=10" alt="Top languages" />
+
+<br/>
+
+<img width="98%" src="https://streak-stats.demolab.com/?user=danya-musbah&background=0d1117&border=1f2a35&ring=2dd4bf&fire=f5b544&currStreakNum=f5b544&currStreakLabel=2dd4bf&sideNums=c9d1d9&sideLabels=8b98a5&dates=8b98a5&stroke=1f2a35&hide_border=false&border_radius=10" alt="Contribution streak" />
+
+<br/>
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=danya-musbah&bg_color=0d1117&color=2dd4bf&line=f5b544&point=ffffff&area=true&area_color=2dd4bf&hide_border=true&radius=10" alt="Contribution graph" />
+
+</div>
+
+<!--
+Optional: show your best projects as cards. Replace REPO_NAME and uncomment.
+
+## `~/projects`
+
+<a href="https://github.com/danya-musbah/REPO_NAME">
+  <img src="https://github-readme-stats.shion.dev/api/pin/?username=danya-musbah&repo=REPO_NAME&bg_color=0d1117&title_color=2dd4bf&text_color=c9d1d9&icon_color=f5b544&border_color=1f2a35&border_radius=10" alt="Project" />
+</a>
+-->
+
+<br/>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=4000&pause=2000&color=F5B544&center=true&vCenter=true&width=520&height=40&lines=Open+to+collaboration+and+new+ideas.;Let%27s+build+something+useful." alt="Closing line" />
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=danya-musbah&style=flat-square&color=2dd4bf&labelColor=0d1117&label=PROFILE+VIEWS" alt="Profile views" />
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:2c5364,50:173a40,100:0f2027&section=footer" alt="" />
+
+</div>
