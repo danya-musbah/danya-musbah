@@ -41,8 +41,6 @@
 
 <div align="center">
 
-<img src="assets/roadmap.svg" alt="AI Engineering Roadmap: from Python to LLMs to AI agents, with four projects to build: Data Analysis Notebook, ML Prediction Model, RAG Chatbot, AI Agent App" width="860" />
-
 </div>
 
 <br/>
