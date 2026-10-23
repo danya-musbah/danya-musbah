@@ -8,14 +8,13 @@
 
 <img src="assets/section-01.svg" alt="About" width="100%" />
 
-```text
-danya/
-├── build/      full-stack apps and REST APIs
-├── analyze/    data analytics and data science
-├── model/      machine learning, NLP, AI engineering
-├── python/     intelligent applications
-└── store/      databases, backend systems, architecture
-```
+<div align="center">
+
+<img src="assets/structure.svg" alt="danya/ — build: full-stack apps and REST APIs; analyze: data analytics and data science; model: machine learning, NLP, AI engineering; python: intelligent applications; store: databases, backend systems, architecture" width="620" />
+
+</div>
+
+<br/>
 
 <table align="center">
   <tr>
@@ -40,12 +39,20 @@ danya/
 
 <br/>
 
+<div align="center">
+
+<img src="assets/roadmap.svg" alt="AI Engineering Roadmap: from Python to LLMs to AI agents, with four projects to build: Data Analysis Notebook, ML Prediction Model, RAG Chatbot, AI Agent App" width="860" />
+
+</div>
+
+<br/>
+
 <img src="assets/section-03.svg" alt="Numbers" width="100%" />
 
 <div align="center">
 
-<a href="https://github.com/danya-musbah"><img height="175" src="https://github-readme-stats.shion.dev/api?username=danya-musbah&hide_border=false&include_all_commits=true&count_private=true&bg_color=0e0f13&title_color=ff6f59&icon_color=8fbf9f&text_color=efe6d5&border_color=2a2c33&border_radius=14" alt="GitHub stats" /></a>
-<a href="https://github.com/danya-musbah?tab=repositories"><img height="175" src="https://github-readme-stats.shion.dev/api/top-langs/?username=danya-musbah&layout=compact&hide_border=false&include_all_commits=true&count_private=true&bg_color=0e0f13&title_color=ff6f59&text_color=efe6d5&border_color=2a2c33&border_radius=14" alt="Top languages" /></a>
+<a href="https://github.com/danya-musbah"><img height="175" src="https://github-readme-stats.shion.dev/api?username=danya-musbah&show_icons=true&hide_border=false&include_all_commits=true&count_private=true&bg_color=0e0f13&title_color=ff6f59&icon_color=8fbf9f&text_color=efe6d5&border_color=2a2c33&border_radius=14" alt="GitHub stats" /></a>
+<a href="https://github.com/danya-musbah?tab=repositories"><img height="175" src="https://github-readme-stats.shion.dev/api/top-langs/?username=danya-musbah&layout=donut&langs_count=6&hide_border=false&include_all_commits=true&count_private=true&bg_color=0e0f13&title_color=ff6f59&text_color=efe6d5&border_color=2a2c33&border_radius=14" alt="Top languages" /></a>
 
 <br/>
 
@@ -60,6 +67,8 @@ danya/
 <div align="center">
 
 <a href="mailto:danyamusbah8@gmail.com"><img src="https://img.shields.io/badge/EMAIL-danyamusbah8%40gmail.com-ff6f59?style=for-the-badge&labelColor=0e0f13" alt="Email" /></a>
+<a href="https://danya-musbah.github.io/protfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-danya--musbah.github.io-efe6d5?style=for-the-badge&labelColor=0e0f13" alt="Portfolio" /></a>
+<br/>
 <a href="https://github.com/danya-musbah"><img src="https://img.shields.io/badge/GITHUB-danya--musbah-f2a65a?style=for-the-badge&labelColor=0e0f13" alt="GitHub" /></a>
 <a href="https://www.linkedin.com/in/danya-musbah-87098838b/"><img src="https://img.shields.io/badge/LINKEDIN-danya--musbah-8fbf9f?style=for-the-badge&labelColor=0e0f13" alt="LinkedIn" /></a>
 <br/>
@@ -75,7 +84,7 @@ danya/
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=danya-musbah&style=for-the-badge&color=ff6f59&labelColor=0e0f13&label=VIEWS" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=danya-musbah&style=for-the-badge&color=8fbf9f&labelColor=0e0f13&label=PROFILE%20VIEWS" alt="Profile views" />
 
 </div>
 
